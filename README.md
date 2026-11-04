@@ -33,6 +33,16 @@ Repository: https://github.com/10foldjosh/grokbot-uses
 
 **Next run priorities**: Agriculture/farming ops, healthcare admin/clinic workflows, real estate transaction coordination, deeper construction estimating examples, gaming/asset pipelines, local/private file execution, multi-bot sales/outbound teams, and phone-call use cases.
 
+### 2026-11-04 (Third Run)
+- Reviewed existing entries; excluded prior domains (trades, legal ops, education/visa, home automation, personal finance audits, multi-bot eng/sales, content pipelines).
+- New searches focused on agriculture/farming (non-tech users), healthcare phone booking/clinic admin, real estate property audits/deal hunting, retail/e-commerce inventory (Shopify/Walmart).
+- Web: "Grok Bot" OR grokbot + (agriculture OR farming OR healthcare OR clinic OR "real estate" OR realtor OR retail OR inventory OR Shopify OR Walmart).
+- X keyword: recent industry-specific posts (farm, realtor, doctor appointment, stock check).
+- Key new sources: completeaitraining.com farmers plugin, aibusinessplays.com property audit, Elon/user posts on phone booking, agentsoftheday Walmart WFS, Shopify connector announcements.
+- Notes: Strong emerging signal in phone-based healthcare (appointment booking while driving), property owner audits recovering real money, non-tech farmer using multi-bot for X growth to fund livestock, and retail inventory morning routines. Real estate agent templates are abundant but owner/investor recovery cases are more novel/productive.
+
+**Next run priorities**: Deeper construction estimating/procurement, agriculture ops beyond marketing (livestock health, crop pricing), healthcare clinic compliance/prior auth, local/private file execution, gaming/asset pipelines, multi-bot creative/content teams, and more phone/voice workflows outside insurance/appointments.
+
 ## Novel and Productive Uses
 
 ### Trades & Small Business Operations
@@ -42,6 +52,27 @@ Repository: https://github.com/10foldjosh/grokbot-uses
 - **Personal Training Business Payroll**: Business with 20+ employees (Melbourne/Sydney) uses Grok Bot sub-agents to check every session against payments and messages, then push approved timesheets to Xero. Payroll in ~30 minutes. Source: aiusecasesforbusiness.com.
 - **Mortgage Loan Officer CRM**: Built a self-updating mortgage CRM that feeds itself from the LOS, Outlook, and funding records. Flags stalled applications and cooling partners; generates templated emails. Source: aiusecasesforbusiness.com (Malorie Boelter / NorthPort Funding).
 - **Construction Estimating & Project Management**: Specialized setups for contractors covering estimating, procurement, and project workflows. Dedicated YouTube guidance and community interest (Tim Fairley / Contractor OS). Source: YouTube "How to Set Up Grok Bot for Construction".
+
+### Agriculture & Farming
+- **Non-Tech Farmer X Growth for Livestock Funding**: Farmer Doyle (@doylesfarming), self-described as "a farmer, not a marketer," tasked Grok Bot with one job: grow his X so payouts could buy goats and chickens. Bot built a team of 5 AI agents in minutes. Day 1: +1,442 followers. Source: X (Oct 28, 2026).
+- **Gentleman Farmer Multi-Bot Team**: Farmer in Livingston runs a five-bot team (named after Heinlein characters: Dora coordinator, Mike research, Anne fair witness, Jubal story, Libby tools) from iPhone. Handles farm dashboard (herd, routines, videos), local news, video scripts/shot plans, routines while asleep. Real outputs include farm dashboards and live X videos. Source: X (@DarinRMcClure, Oct 2026).
+- **Farmers AI Plugin / Structured Agents**: completeaitraining.com plugin includes 8 Grok Bot agents for farm ops: Invoice Chaser (unpaid follow-ups), Inventory Demand Planning (seed/feed forecasting), Livestock Health Anomaly Agent, Harvest Labor Scheduling, Crop Marketing Price Watch, weather/frost alerts, maintenance planning. Skills cover day book records, equipment service, customer replies. Source: completeaitraining.com (2026).
+
+### Healthcare & Medical Admin
+- **Phone-Based Doctor Appointment Booking (While Driving)**: User described daughter's foot injury; bot researched nearby options (including pediatric orthopedist with X-ray), called to book same-day 9:30 appointment, handled insurance/pricing/payment options, sent intake forms to email, added to calendar. Live transcript with real-time questions to user; receptionist notified of recording. All while driving. Source: X user reports + Elon Musk highlight (Nov 3, 2026).
+- **New Patient Booker Template**: Finds doctors/dentists accepting new patients near user, compares reviews, then places phone calls to book first visit (user approves every call). Listed on grokbot.rocks. Source: X (@BrianRoemmele, Nov 2026).
+- **Pharmacy Prescription Status Check**: Health bot signed into Walmart Pharmacy (linking existing account), read verification code from phone Messages (with OK), checked delayed/out-of-stock status with 24-48h ETA, and opted into ready-for-pickup texts. Avoided unnecessary trip. Source: X (Nov 2026).
+- **Medical Bill / EOB Audit**: User uploaded year's bills, EOBs, receipts, coverage; bot found ~$3k overpay to one provider, double-billing, incorrectly submitted claims, and drafted refund requests with docs. Second user found incorrect codes via insurance/MyChart messaging and recovered ~$1k. Source: agentcookbook.dev / X (Oct 2026).
+
+### Real Estate & Property Management
+- **Property Manager Statement Audit & Recovery**: Rental property owner (@ryandebenham) had bot compare 12-24 months of statements against 2019 management contract. Flagged 32% fee (vs contracted 25%), calculated $17,429.36 overcharge, drafted and (with approval) emailed manager. Funds wired back; now standing monthly monitoring job. Source: aibusinessplays.com / X (Oct 22, 2026).
+- **Cold Email Deal Hunting**: User reported Grok Bot sending ~600 cold emails per day to find real estate deals; described as working. Source: X (Nov 4, 2026).
+- **Realtor Workflow Templates**: Abundant shared templates and guides for agents (lead qualifier replies, listing description packs from notes/photos, CMA drafts, showing coordination, transaction action lists, Fair Housing scans). Homies AI published a free manager-assistant template integrating CRM (Follow Up Boss, GoHighLevel), calendar, inbox, listings. Drafts-first with human approval. Sources: whatshouldmybotdo.com, grokbot.dev, homiesai.com, agentmarketingschool.com (Aug-Oct 2026).
+
+### Retail, E-commerce & Logistics
+- **Walmart WFS Morning Stock Check**: Marketplace seller built "Wally" bot that checks Walmart Fulfillment Services stock each morning: flags low stock, aging inventory, and reorder suggestions. Previously 3 hours/day; now approvals only. Source: agentsoftheday.com / X (Oct 2026).
+- **Shopify Store Ops Connector**: Official connector lets bots check orders, track inventory, and keep product listings up to date (e.g., "send list of low inventory items and draft reorder"). Source: Shopify + @bot announcement (Oct 8, 2026).
+- **Shopping Deal Finding & Order Tracking**: Updated experience with product cards (photo, rating, price, store), comparison carousels, Buy Now (approval required), then post-purchase shipment tracking with carrier/stage cards. Templates for Order Concierge / Deal Watcher. Source: @bot changelog / posts (Oct-Nov 2026).
 
 ### Legal, Compliance & Professional Services
 - **Legal Ops Assistant** (official guide): Prepares counsel 1:1 agendas from Slack/Notion/trackers, refreshes Legal Review trackers, researches contract workflows, pulls deal context, tracks templates, assesses product-launch readiness, and drafts weekly executive updates. Human approval for writes. Source: x.ai/bot/guides/grok-bot-for-legal-ops (Sep 2026).
@@ -81,18 +112,19 @@ Repository: https://github.com/10foldjosh/grokbot-uses
 
 ## Categories to Explore Further
 - Construction / estimating / procurement (beyond intro video)
-- Healthcare / medical admin / insurance booking / clinic compliance
+- Healthcare / medical admin / insurance booking / clinic compliance / prior auth
 - Education / tutoring / curriculum / student admin
 - Legal / compliance / form filling (deeper matter prep)
-- Agriculture / farming ops
+- Agriculture / farming ops (livestock health, crop pricing, beyond marketing)
 - Content creator pipelines (research → write → distribute)
 - Local computer execution for private files/spreadsheets
 - Real estate transaction coordination
 - Phone-call and voice workflows
+- Gaming / asset generation pipelines
 
 ## Notes
 - Grok Bot launched ~Aug 11, 2026 (public beta). Each bot has its own cloud computer (browser, files, terminal), persistent memory, can run routines, collaborate in groups, and connect to tools. Recent additions include phone calling (US numbers) and shopping/order tracking.
 - Always prefer human-in-the-loop for sends, payments, or destructive actions. Especially critical in legal, healthcare, and financial contexts.
-- Sources primarily from public X posts, agentsinuse.com, usecases.sh, official x.ai guides, and community blogs as of Nov 3, 2026.
+- Sources primarily from public X posts, agentsinuse.com, usecases.sh, official x.ai guides, community blogs, and domain-specific sites as of Nov 4, 2026.
 
 *This document is updated iteratively. Next updates will reference this log and exclude previously captured items.*
