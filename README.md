@@ -43,6 +43,16 @@ Repository: https://github.com/10foldjosh/grokbot-uses
 
 **Next run priorities**: Deeper construction estimating/procurement, agriculture ops beyond marketing (livestock health, crop pricing), healthcare clinic compliance/prior auth, local/private file execution, gaming/asset pipelines, multi-bot creative/content teams, and more phone/voice workflows outside insurance/appointments.
 
+### 2026-11-05 (Fourth Run)
+- Reviewed existing README entries carefully; excluded previously captured trades (HVAC/plumbing/mortgage/construction), agriculture marketing, basic healthcare appointments/pharmacy/bills, real estate templates/audits, retail inventory, legal ops, education/visa, home automation, personal finance CFO/bookkeeping, multi-bot eng/sales/content pipelines, and early phone examples.
+- New searches focused on: crypto/trading desks and multi-bot market teams (non-tech users), phone-call negotiations and real-world call outcomes (Comcast, pizza, cancellations), family/parenting/creative personal uses (learning teams, pet logistics, diaries, therapy, games), manufacturing/logistics/nonprofit (limited results), and emerging voice/phone workflows.
+- Web: "Grok Bot" OR grokbot + (manufacturing OR logistics OR nonprofit OR government OR research OR freelance OR parenting OR crypto OR trading OR "phone call").
+- X keyword: Latest posts with industry or novel action keywords (trading, phone call, family, crypto).
+- Key new sources: usinggrokbot.com user stories, agentsinuse.com page 2+, teslarati/teslanorth on live phone calls, whales.market crypto desks, usecases.sh trading bot, X posts on Moby agent group chats and pizza orders.
+- Notes: Phone calling is now live and producing concrete savings/bookings (Comcast ~$500/yr, pizza with coupon, plan cancellations). Crypto/trading multi-bot desks are proliferating among non-engineers (group analysis, token flagging, Webull live bot). Family/creative uses show high engagement from average users (Hogwarts learning teams, pet relocation, speech therapy, fantasy codices). Manufacturing and pure nonprofit still sparse; focus next on government forms, local business ops beyond trades, and quantitative trading results.
+
+**Next run priorities**: Government/local admin form filling, manufacturing/procurement workflows, deeper quantitative trading P&L examples, parenting/education tools, nonprofit volunteer coordination, and more verified phone-call outcomes with transcripts.
+
 ## Novel and Productive Uses
 
 ### Trades & Small Business Operations
@@ -63,6 +73,7 @@ Repository: https://github.com/10foldjosh/grokbot-uses
 - **New Patient Booker Template**: Finds doctors/dentists accepting new patients near user, compares reviews, then places phone calls to book first visit (user approves every call). Listed on grokbot.rocks. Source: X (@BrianRoemmele, Nov 2026).
 - **Pharmacy Prescription Status Check**: Health bot signed into Walmart Pharmacy (linking existing account), read verification code from phone Messages (with OK), checked delayed/out-of-stock status with 24-48h ETA, and opted into ready-for-pickup texts. Avoided unnecessary trip. Source: X (Nov 2026).
 - **Medical Bill / EOB Audit**: User uploaded year's bills, EOBs, receipts, coverage; bot found ~$3k overpay to one provider, double-billing, incorrectly submitted claims, and drafted refund requests with docs. Second user found incorrect codes via insurance/MyChart messaging and recovered ~$1k. Source: agentcookbook.dev / X (Oct 2026).
+- **Speech Therapy for Brain Injury Recovery**: Interactive speech therapy sessions for a family member who suffered a brain injury, providing tailored exercises. Source: Reddit via usinggrokbot.com (Oct 2026).
 
 ### Real Estate & Property Management
 - **Property Manager Statement Audit & Recovery**: Rental property owner (@ryandebenham) had bot compare 12-24 months of statements against 2019 management contract. Flagged 32% fee (vs contracted 25%), calculated $17,429.36 overcharge, drafted and (with approval) emailed manager. Funds wired back; now standing monthly monitoring job. Source: aibusinessplays.com / X (Oct 22, 2026).
@@ -84,6 +95,7 @@ Repository: https://github.com/10foldjosh/grokbot-uses
 ### Education & Students
 - **University Life Management**: Handles calendar, classes, latest infos; used for legal/visa processes. Described as especially useful for students. Source: X (Nov 2026).
 - **Job Applications at Scale**: Named bot applied to 38 jobs and generated 2 interviews. Source: Reddit via usinggrokbot.com (Nov 2026).
+- **Hogwarts-Themed Personalized Learning Team**: Twelve bots with distinct personalities (Snape, Luna, Dumbledore, etc.) create personalized learning plans, source resources, and break down complex subjects into manageable lessons. Source: Reddit via usinggrokbot.com (Oct 2026).
 
 ### Home, Appliances & Smart Systems
 - **Appliance Troubleshooting & Maintenance**: Snap a photo of an appliance; bot finds user manuals, helps troubleshoot issues, and schedules routine maintenance. Source: X (@Cmin914725641, Oct 2026).
@@ -110,21 +122,46 @@ Repository: https://github.com/10foldjosh/grokbot-uses
 - **Sci-Fi Comic Generation**: Attempted comic from script and models. Source: X (Nov 2026).
 - **Multi-Bot Sales Team**: 8 specialized bots (chief of AI, growth, lead lists, enrichment, copy, etc.) booked 27 meetings in 2 months for an agency, replacing ~$6k/month work. Source: X (@xaviercaffrey13, Nov 2026).
 
+### Crypto, Trading & Market Desks (New - Nov 5)
+- **Multi-Bot Token Discovery & Analysis Team**: User (@OffGridKat) runs a group chat with Moby agent, Analysis (TA), Scout (market news), Kat (X trending), and Chief (manager). They flag setups together; example: flagged $PIRATE at $414K MC after 23x run, Analysis advised low confidence / don't chase at higher levels, it dipped and recovered. Source: X (Nov 5, 2026).
+- **Webull Live Trading Bot**: Redditor had Grok Bot + Cursor build a Webull trading bot from their own strategy. First live month: ~$200 profit (7% of account) over 245 trades with no losing day. Source: usecases.sh / Reddit (Nov 2026).
+- **AI Hedge Fund / Trading Desk Setups**: Community multi-agent desks for Hyperliquid, stocks, crypto, prediction markets. Specialized bots (research, risk, execution, review) coordinate in group chats, pull live data, size positions, generate tickets with human approval. Public threads and GitHub templates exist; one-person hedge fund style posts reached high views. Sources: whales.market, X threads (Sep-Nov 2026).
+
+### Phone Call & Voice Workflows (New - Nov 5)
+- **Comcast Bill Negotiation**: Bot dialed Comcast, worked through menus, deflected small talk, turned down upsells, used competitor Sonic fiber offer as leverage. Bill dropped from $84 to $45/month (~$500/year savings). Live transcript available. Source: Peter Yang demo / teslarati.com (Nov 2026).
+- **Internet Plan Cancellation**: Bot noticed contract renewing, user approved call with instruction "don't let them talk me into a discount." Live transcript shows declining 10% retention offer citing Starlink, confirmed cancellation. Take-over and End Call buttons. Source: Official @bot demo / teslanorth.com (Nov 4, 2026).
+- **Pizza Order by Phone**: First phone call ordered pizza; found the shop had moved, located a coupon saving $8.99, placed the order. User verified it was real by calling the shop afterward. (Used external Bland earlier; native now live.) Source: X (@johnbikis, Nov 2026).
+- **Family Message Delivery**: Bots call family members to deliver messages (e.g., "I love you" with late-night warnings) or answer WhatsApp-style queries. Source: X via usinggrokbot.com (Nov 2026).
+
+### Family, Parenting & Creative Personal (New - Nov 5)
+- **Pet Relocation Coordination**: Coordinated logistics of moving two cats from Berlin to Dubai: document verification, scheduled home vet visit, booked pet sitter (Felmo) for transport. Source: Reddit via usinggrokbot.com (Oct 2026).
+- **Children's Bus Shelter DIY Sourcing**: Sourced a plexiglass supplier for a DIY bus shelter for kids on the same day, saving hours of research. Source: X via usinggrokbot.com (Oct 2026).
+- **Nightly Family Diary in Obsidian**: Reviews work/personal calendars, texts, photos, and emails to compile a cohesive nightly family diary and follow up on events. Source: X via usinggrokbot.com (Oct 2026).
+- **Custom Chess Mistake Flash-Card App**: Analyzed chess games and built a flash-card app focused on the user's specific mistakes. Source: X via usinggrokbot.com (Oct 2026).
+- **Fantasy World Codex with Multi-Bots**: Five specialized bots (lorekeeper, visuals creator, cartographer, developer, writer) collaboratively build an interactive fantasy world codex. Source: Reddit via usinggrokbot.com (Nov 2026).
+- **Voice Astrology Website**: Tasked bot to create and run a voice-based astrology site end-to-end (development through distribution). Source: Reddit via usinggrokbot.com (Oct 2026).
+- **Custom IPTV TV Guide Webpage**: Built a webpage serving as a personalized TV guide for favorite IPTV channels. Source: Reddit via usinggrokbot.com (Nov 2026).
+- **Parent Math Game for Daughter**: Built a math game for his daughter. Source: agentsoftheday.com / X (2026).
+- **Diabetic-Friendly Grocery Cart**: Built a grocery cart that came in under budget with diabetic-friendly items. Source: agentsoftheday.com (2026).
+
 ## Categories to Explore Further
 - Construction / estimating / procurement (beyond intro video)
 - Healthcare / medical admin / insurance booking / clinic compliance / prior auth
-- Education / tutoring / curriculum / student admin
+- Education / tutoring / curriculum / student admin / personalized learning teams
 - Legal / compliance / form filling (deeper matter prep)
 - Agriculture / farming ops (livestock health, crop pricing, beyond marketing)
 - Content creator pipelines (research → write → distribute)
 - Local computer execution for private files/spreadsheets
 - Real estate transaction coordination
-- Phone-call and voice workflows
+- Phone-call and voice workflows (negotiations, bookings, family)
 - Gaming / asset generation pipelines
+- Crypto / trading multi-bot desks with verified P&L
+- Government / local admin / nonprofit coordination
+- Parenting / family logistics / creative hobbies
 
 ## Notes
-- Grok Bot launched ~Aug 11, 2026 (public beta). Each bot has its own cloud computer (browser, files, terminal), persistent memory, can run routines, collaborate in groups, and connect to tools. Recent additions include phone calling (US numbers) and shopping/order tracking.
-- Always prefer human-in-the-loop for sends, payments, or destructive actions. Especially critical in legal, healthcare, and financial contexts.
-- Sources primarily from public X posts, agentsinuse.com, usecases.sh, official x.ai guides, community blogs, and domain-specific sites as of Nov 4, 2026.
+- Grok Bot launched ~Aug 11, 2026 (public beta). Each bot has its own cloud computer (browser, files, terminal), persistent memory, can run routines, collaborate in groups, and connect to tools. Recent additions include native phone calling (US numbers, with approval cards, live transcripts, take-over) and shopping/order tracking.
+- Always prefer human-in-the-loop for sends, payments, or destructive actions. Especially critical in legal, healthcare, financial, and trading contexts. Phone calls require explicit user approval before dialing.
+- Sources primarily from public X posts, agentsinuse.com, usecases.sh, usinggrokbot.com, official x.ai guides, community blogs, and domain-specific sites as of Nov 5, 2026.
 
 *This document is updated iteratively. Next updates will reference this log and exclude previously captured items.*
