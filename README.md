@@ -12,6 +12,12 @@ This file is updated over time. Future runs check against existing entries to av
 - **Domains covered this run**: Business operations & sales, personal productivity & life admin, finance & expense, content/marketing, engineering/DevOps, support/tickets, multi-bot fleets.
 - **Notes for next runs**: Avoid re-listing the same official 8 roles or highly similar CRM/email/chief-of-staff patterns. Search new domains: education/tutoring, healthcare/personal health, creative arts/music/video production, hardware/IoT/home automation, research/academia, legal/compliance, gaming/simulation, local small business (trades, retail), non-English users, accessibility uses. Check X for recent (last 7 days) high-engagement posts. Look for multi-agent coordination and 24/7 autonomous workflows.
 
+### Run 2 — 2026-11-08
+- **Sources searched**: Web (thebutlergrokbot.com, botcookbook.com, pomblebot.com, grokbot.dev marketplace, grokbotagents.co, grokbots.de, neume.io, thebutlergrokbot.com smart home, x.ai legal ops guide, agentsinuse.com recent, X keyword/semantic searches for education, health, creative, IoT, recent posts since Nov 1).
+- **Queries / focus**: Targeted new domains from Run 1 notes — education/tutoring/homework, personal health/fitness/wearables, creative arts (music/video production), hardware/IoT/Home Assistant/smart home, plus legal research/ops and multi-agent trading desks. Avoided re-covering core business ops, email triage, chief-of-staff, general CRM, expense reconciliation.
+- **Domains covered this run**: Education & learning (tutors, homework organization, teachers), Personal health & fitness (coaches, wearable analysis, family health admin), Creative arts & media production (music generation, full music videos, explainers), Smart home & IoT (Home Assistant MCP control, device monitoring), Legal ops/research (drafts and prep, not filings).
+- **Notes for next runs**: Dig deeper into non-English users and local small businesses (trades beyond plumbing). Explore gaming/simulation bots, accessibility uses, academic research pipelines, multi-bot war rooms for content/creative, and recent high-engagement X posts (last 3-7 days) for autonomous 24/7 workflows. Check for hardware beyond HA (e.g., Tesla integration, cameras). Avoid near-duplicates of health coaches or video explainers.
+
 ## Novel / Productive Use Cases
 
 ### Business & Operations
@@ -40,6 +46,7 @@ This file is updated over time. Future runs check against existing entries to av
 - **Stock valuation / market expectations desk**: Analyzes option chains, applies valuation methods, multi-agent critique. Source: grokbot.dev.
 - **Live trading bot (Webull dips)**: Built strategy bot that made ~$200 (7%) in first month with no losing day. Source: usecases.sh / Reddit.
 - **One-person hedge fund style**: Eight specialized bots for research/trading/risk. Source: grokbot.dev.
+- **Solana memecoin multi-agent trading desk**: 4 specialized agents (Scanner, Rug Check, Momentum, Exit) running 24h; one run turned ~$100 into ~$5.7k (paper or live reported). Source: recent X posts (e.g. @0xboan). Novel for autonomous multi-agent crypto workflows with handoffs.
 
 ### Content, Marketing & Creative
 - **Faceless YouTube pipeline**: Source, edit, caption, thumbnail, schedule with approval. Source: grokbot.dev.
@@ -60,6 +67,30 @@ This file is updated over time. Future runs check against existing entries to av
 - **Chief of Staff + specialist bots**: One interface routes to email, calendar, school, finance, etc. bots. Source: multiple (Matthew Berman, others).
 - **21+ bot employee dashboard**: Manages large team of bots. Source: TikTok via usinggrokbot.com.
 - **Bot watching bot**: Notes on livestreams or other bots. Source: X (Elon / users).
+
+### Education & Learning (new)
+- **Persistent AI tutor for quant/math roadmaps**: Daily problems sent, never gives answer first, remembers every mistake, tracks levels; user completed level 1 (212 problems) in 34 days without skipping. Source: X (@phosphenq) / long post with prompts and share link. Novel for spaced accountability beyond one-shot chat.
+- **Parent homework organizer**: Pulls due dates/tests from school emails into calendar proposals; evening routine summaries of tomorrow's work. Socratic coaching rules (explain, don't solve). Source: thebutlergrokbot.com guides.
+- **Teacher workflow bots**: Lesson plan drafts, quiz builders, parent email drafts (review required); family homework hotline that digests school plans. Source: botcookbook.com / shared bots.
+- **Language & subject tutors**: Daily lessons, pronunciation drills, chemistry tutors, college copilot (semester dashboard + morning briefs). Source: pomblebot.com, botcookbook, shared templates.
+
+### Personal Health & Fitness (new)
+- **Health Coach / family health admin**: Tracks workouts, meals, check-ins; preps appointment questions; weekly summary. Health Concierge for insurance/labs/doctors across family. Source: grokbot.dev marketplace, grokbots.de.
+- **Wearable data interpreter**: Analyzes Apple Health, Oura, Whoop, Fitbit, Garmin exports into plain-English weekly reports on sleep/HRV/activity; suggests experiments; flags readings for doctor review (not diagnosis). Source: grokbotagents.co.
+- **Form-analysis fitness bots**: Training/nutrition plans from goals/equipment; breaks down exercise form from photos/clips. Source: grokbots.de / shared bots.
+
+### Creative Arts & Media Production (new)
+- **Scheduled music generation**: Connects to Neume MCP to create full songs (lyrics + vocals) and short music videos on demand or schedule (birthday songs, weekly tracks, product jingles). Source: neume.io.
+- **Full music video creator**: Bot that cuts to the beat, offers styles, renders on free tools, adds captions; shareable template. Source: X (@AunySillyMe) with x.ai/bot share link.
+- **Explainer & video studio pipelines**: End-to-end narrated explainers, horror shorts, history videos from topic/script, with Grok Imagine clips, captions, QA. Source: grokbot.zone, grokbots.de.
+
+### Smart Home & IoT (new)
+- **Home Assistant foreman**: Via official MCP, controls lights, climate, solar/energy; reads status, reworks routines; onboarding for new owners. Source: grokbot.dev marketplace, grokgadgets.org.
+- **Google Home / device monitoring**: Connects devices for camera snapshots, offline checks, thermostat suggestions (with approval). Source: earlier X reports / agentsinuse.com.
+- **Appliance photo troubleshooting**: Snap picture → finds manuals, schedules maintenance. Source: X user examples.
+
+### Legal Ops & Research (new)
+- **Legal research clerk / ops assistant**: Summarizes uploaded PDFs into issues lists/timelines; prepares 1:1 agendas from Slack/Notion; drafts (does not file/send) contract reviews and executive updates. Explicit human approval for any external action. Source: botskills.sh, x.ai/bot guides for legal ops, openagreements.org. Novel for multi-tool persistent prep without privileged login risks.
 
 ## How to Contribute / Iterate
 When adding entries:
