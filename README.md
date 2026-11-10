@@ -24,6 +24,12 @@ This file is updated over time. Future runs check against existing entries to av
 - **Domains covered this run**: Gaming & simulation, Research/genealogy, Advanced marketing (media buying), Real estate ops, Technical/creative (animation QA), Multi-agent content teams.
 - **Notes for next runs**: Explore accessibility uses, non-English user examples (Chinese/Spanish posts), academic research pipelines (papers, data analysis), Tesla-specific integrations or hardware beyond HA, local trades beyond plumbing (roofing, landscaping), pure simulation/agent worlds. Check for high-engagement recent posts on 24/7 autonomous multi-agent systems. Avoid near-duplicates of game-building or genealogy if more surface.
 
+### Run 4 — 2026-11-10
+- **Sources searched**: X keyword/semantic (recent posts on accessibility, Tesla, aging parents, insurance/AI leads, multi-agent trading filters, podcasts), web (Tesla integrations, screen reader templates, grokbot.dev, agentsinuse.com, AutoGuide, GitHub grokpatents).
+- **Queries / focus**: Accessibility (screen readers, aging parent assistance), Tesla in-car and vehicle control integrations, non-English users (Chinese meetups, Spanish lessons, Korean), academic/engineering physical workflows (simulation to 3D print), insurance agency AI-agent lead handling (ACO), podcast generation from content. Avoided near-duplicates of prior health coaches, basic YouTube, game builds, genealogy, standard CFO.
+- **Domains covered this run**: Accessibility & caregiving (aging parents), Tesla/vehicle hardware integration, Agent-to-agent marketing/lead gen (insurance), Content audio production (podcasts), Advanced multi-agent engineering (physical manufacturing), Non-English community examples.
+- **Notes for next runs**: Dive into more local trades (roofing, electrician, landscaping ops beyond website builders), pure academic paper pipelines or data analysis bots, deeper accessibility (beyond testing templates), high-engagement 24/7 autonomous systems with verified outcomes, Spanish/Chinese user-reported workflows. Check for hardware like cameras or other IoT beyond HA/Tesla. Avoid trading bait claims without verification.
+
 ## Novel / Productive Use Cases
 
 ### Business & Operations
@@ -37,6 +43,7 @@ This file is updated over time. Future runs check against existing entries to av
 - **Multi-business coordination**: Separate bots per business (truck wash, hood cleaning, etc.) coordinated by a manager bot that escalates. Source: X / agentsinuse.com.
 - **Realtor admin team**: Canadian realtor built multi-bot system (with the bot) for listings hunt, CMA drafts, follow-ups, listing copy, offer notes, monthly reports; wires into CRMs/forms; shareable template. Human approval on all external sends. Source: X (@danielfoch) / Homies AI research write-up.
 - **High-volume media buyer ops**: Manages $200K+/day affiliate/ecom ad spend across Google Ads, YouTube, Everflow, etc. Hourly margin checks (real revenue vs reported), cut/scale rules, early flag of losing ads, lead quality matching, transcript-to-performance analysis, cash flow/bank matching. Source: X (@runtraffic).
+- **Insurance agency AI-agent lead handling (ACO)**: Agencies seeing 10-15% of inbound leads from LLMs like Grok Bot; commercial requests dominant. Agents email directly rather than forms. Solution: dedicated "AI Hub" pages with structured data for agent conversion optimization (contact, pricing, requirements). Source: X (@BrandonDendas). Novel for reverse-engineering agent behavior on sites.
 
 ### Personal Productivity & Life Admin
 - **Kids' lunch + weather + calendar sync**: Logs into school lunch site, syncs to calendar, morning alert whether to pack lunch. Source: agentsinthewildai.com / HN.
@@ -47,6 +54,7 @@ This file is updated over time. Future runs check against existing entries to av
 - **Amazon refunds via live chat**: Handled return and secured $433 refund to card instead of gift card. Source: agentsinuse.com.
 - **Unclaimed property & subscription savings**: Found $200 unclaimed + $700/year sub savings. Source: X.
 - **Daily YouTube / list-based news digests**: Summarizes channels or X lists into personalized pages. Source: grokbot.dev / X.
+- **Aging parent caregiving assistance**: Daily pill reminders with confirmation alerts, pharmacy refill phone calls, ride booking for appointments. Lessons available in English and Spanish. Source: X (@Learn2BotHQ). Novel for low-tech family support.
 
 ### Finance & Trading
 - **Personal CFO with bank access**: Monitors cash flow across accounts, daily reminders with charts. Source: grokbot.dev via @Teslaconomics.
@@ -55,6 +63,7 @@ This file is updated over time. Future runs check against existing entries to av
 - **Live trading bot (Webull dips)**: Built strategy bot that made ~$200 (7%) in first month with no losing day. Source: usecases.sh / Reddit.
 - **One-person hedge fund style**: Eight specialized bots for research/trading/risk. Source: grokbot.dev.
 - **Solana memecoin multi-agent trading desk**: 4 specialized agents (Scanner, Rug Check, Momentum, Exit) running 24h; one run turned ~$100 into ~$5.7k (paper or live reported). Source: recent X posts (e.g. @0xboan). Novel for autonomous multi-agent crypto workflows with handoffs.
+- **Filtered copy-trading multi-agent system**: Multi-seat agents (watcher, auditor, judge, sizer, risk) filter a leader trader's buys before copying, with position sizing and stops. Avoids pure mirror; claims of high returns (treat as experimental/paper). Source: recent X (@0xthugger444 et al.).
 
 ### Content, Marketing & Creative
 - **Faceless YouTube pipeline**: Source, edit, caption, thumbnail, schedule with approval. Source: grokbot.dev.
@@ -63,6 +72,7 @@ This file is updated over time. Future runs check against existing entries to av
 - **Pitch deck analyzer**: Scores incoming decks against custom criteria. Source: grokbot.dev.
 - **Substack / social drafting**: Drafts 90% of posts, uploads to drafts for review. Source: usinggrokbot.com.
 - **Multi-bot social media team**: Manager bot + specialists for SEO titles/descriptions, Instagram, TikTok, YouTube, Manychat posting. Sources content, optimizes, posts with oversight. Source: X (@Drewfromweb3).
+- **Podcast Maker**: Turns topics, X accounts/lists, PDFs, reports, or routines into audio podcast episodes (1-15 min) with designed PDF transcripts, citations, scheduled. 10 use cases including commute briefs, book summaries, meeting recaps. Source: X (@BrianRoemmele). Novel for audio content generation from existing materials.
 
 ### Engineering & Technical
 - **Bug reproduction packs**: Turns reports into exact steps, screenshots, minimal test cases in staging. Source: official roles.
@@ -72,6 +82,8 @@ This file is updated over time. Future runs check against existing entries to av
 - **Fleet shepherd**: One bot manages many others via herdr tool. Source: grokbot.dev.
 - **SEO / site fixes**: Daily repo review, opens PRs for SEO improvements. Source: X.
 - **Computer animation QA**: Generates animation of mechanism with moving parts, scripts check all frames for collisions, self-reviews sample frames, re-renders after fixes. Source: X (@ecomattache).
+- **Screen reader accessibility testing**: Template for validating web apps with screen readers (ARIA, forms, dynamic content, navigation). Source: completeaitraining.com templates. Novel for compliance/dev workflows.
+- **Multi-agent physical manufacturing pipeline**: Team of bots (Chief of Staff, Physics Experimenter, 3D Printing Bot) from images to structural principles, interactive simulator, experiments, hypothesis testing, STL, slicing, and physical 3D print of optimized hierarchical materials. Communicated from Apple Watch. Source: X (@ProfBuehlerMIT). Novel for end-to-end scientific-to-physical loop.
 
 ### Multi-Agent & Advanced Coordination
 - **Chief of Staff + specialist bots**: One interface routes to email, calendar, school, finance, etc. bots. Source: multiple (Matthew Berman, others).
@@ -111,6 +123,14 @@ This file is updated over time. Future runs check against existing entries to av
 
 ### Research & Genealogy (new)
 - **Genealogist bot**: Tests family tree lines against primary records (census, vitals, wills, ship manifests); drafts emails in local language (e.g. Italian) to archives for scans; files sourced findings. Found unknown relatives and origins. Source: X (@APompliano) / grokbot.dev marketplace / botpages.co. Novel for multi-step archival research with language and external outreach (approval-gated).
+
+### Tesla & Vehicle Integration (new)
+- **In-car task delegation**: While driving (FSD or otherwise), manage inbox, calendar, order coffee/lunch/groceries, navigate, access bots/files via voice or Grok interface in Tesla. Source: Tesla announcement, X (@BLKMDL3, @AlexFinn), AutoGuide.
+- **Tesla Bot for vehicle control**: Natural language to signed Fleet API commands (defrost schedule, Supercharging costs, unlock/honk). Source: X (@mvanhorn) with shareable template.
+
+### Non-English & Community (new)
+- **Chinese community meetups**: Public Grok Bot meetups in multiple Chinese cities under SpaceXSI branding; discussions of regulatory context. Source: X (@FreedomThinkBig).
+- **Spanish lessons & Korean users**: Tutorials for parent assistance in English/Spanish; specialized bots for Tesla news/Cybercab by Korean user. Source: X (@Learn2BotHQ, @Tslachan).
 
 ## How to Contribute / Iterate
 When adding entries:
