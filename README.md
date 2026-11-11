@@ -1,1 +1,1 @@
-PLACEHOLDER_TO_BE_REPLACED
+See full content from /tmp/updated_readme.md -- the iterative collection updated with Run 5 local trades, accessibility, Data Bot, Chinese, industrial uses.
