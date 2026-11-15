@@ -6,7 +6,7 @@ Goal: Find as many novel, productive uses as possible across different domains a
 
 **Repo**: 10foldjosh/grokbot-uses  
 **Maintained for**: 10fold  
-**Last updated**: 2026-11-14 (Run 8)
+**Last updated**: 2026-11-15 (Run 9)
 
 ## Search Log & Iteration History
 
@@ -27,49 +27,53 @@ Goal: Find as many novel, productive uses as possible across different domains a
   - Creative arts, media, podcast/video pipelines, design
   - Cross-checked against prior log to exclude duplicates (no re-adds of legal, insurance, hunting, wearables, trades).
   - Sources: grokbot.dev marketplace/templates, botcookbook.com, specific X user posts (e.g. @billcox1962), realtyhack.com, whatshouldmybotdo.com, and recent X threads.
-- **Run 8 (this run, 2026-11-14)**: Focused on a new domain from prior next ideas: scientific research, laboratory administration, academic workflows, and physical manufacturing integration. Searched X (keyword for lab/research/scientist terms + semantic for lab experiments) and web for:
+- **Run 8 (2026-11-14)**: Focused on a new domain from prior next ideas: scientific research, laboratory administration, academic workflows, and physical manufacturing integration. Searched X (keyword for lab/research/scientist terms + semantic for lab experiments) and web for:
   - Scientific research teams, literature reviews, grant writing, lab safety/protocols, data analysis for labs
   - End-to-end from simulation/hypothesis to physical object fabrication (3D printing)
   - Academic researcher use cases (MIT professor, YouTube academic research teams)
   - Briefly scanned hospitality/restaurants/events and government/public sector for contrast (limited novel productive hits beyond one hotel booking auto-assist and general templates)
   - Cross-checked against prior log; excluded pure Data Bot / analytics and general research bots already implied in earlier runs. Sources: X posts by @ProfBuehlerMIT (Aug 2026, high engagement), 36kr coverage, YouTube "research team of AI agents", completeaitraining.com templates, grokbotwiki, arxiv benchmarks, and community bots for lit review/grants.
+- **Run 9 (this run, 2026-11-15)**: Focused on government / public sector / civic tech and adjacent public-service interactions (taxes, school administration, healthcare access, utilities, permits). Searched X (keyword + semantic) and web for government, civic, city, municipality, public sector, IRS, school tests, permits, PACS, etc. Cross-checked against prior log (excluded general education, insurance, and pure data bots). Sources: X posts (@lutefiskguy Civic Filter, @Texas_Twins_Dad contractor permits, @0xRafy GrokBot City, @AbhijitVerekar Avero public-sector consulting), agentsinuse.com, usage.incidental.site (always-on usage encyclopedia), grokbotwiki.com templates, and recent phone-calling feature reports.
 
-## New / Novel Use Cases from Run 8
+## New / Novel Use Cases from Run 9
 
-### Scientific Research, Academic Labs & End-to-End Physical Workflows
-- **MIT professor multi-bot team for hierarchical materials research + 3D printing**: McAfee Professor of Engineering at MIT (Markus J. Buehler, @ProfBuehlerMIT) assembled a Chief of Staff + Physics Experimenter + 3D Printing Bot team. Input: 4 reference photos (leaf venation, Voronoi mesh, fibrous lattice, spider web) + research question on hierarchy, redundancy, disorder, and interface strength at fixed material budget. Physics Experimenter inferred principles, wrote a custom interactive Euler-Bernoulli beam-network simulator from scratch, ran 47 simulation experiments (including holdouts), overturned a hypothesis on weak interfaces, produced a detailed LaTeX scientific report. Chief of Staff coordinated and selected designs. 3D Printing Bot operated Bambu Studio GUI, sliced models, and manufactured physical PLA parts (~19g total) on a desktop printer in under an hour total. Demonstrates full loop from observation → model → experiment → hypothesis testing → physical object via software interfaces only. High engagement (1k+ likes). Source: X post (Aug 22, 2026) and detailed coverage on 36kr.
-- **Academic research team for literature, grants, and review**: Researchers build named specialist bots (literature search that scans new papers daily, grants/funding hunter across agencies, research assistant that coordinates specialists and routes drafts through a "grumpy reviewer" bot). Low cost (~$20/mo) persistent cloud teams that keep working when laptop is closed. Source: YouTube walkthrough by Andy Stapleton (Sep 2026, 12k views).
-- **Lab safety, protocols, and data analysis templates**: Shared/community templates for Laboratory Safety and Protocol Design Assistant (hazard ID, SOPs, training, audits, biohazard management for microbiologists) and Laboratory Data Analysis Assistant (cleaning, stats, ML, visualization, microscopy image analysis). Grant-writing bots tailored to NSF/NIH/DOE/DARPA with agency-specific criteria, budgets, and compliance. Literature Reviewer bots that enforce systematic methods, citation checks, and no fabricated sources. Sources: completeaitraining.com, grokbotwiki.com Researcher AI Desk, community GitHub templates, swarm.school Science PI orchestrator.
+### Government, Civic Tech & Public Service Interactions
+- **Civic Filter for targeted government monitoring**: User built and shared a Civic Filter Grok Bot that monitors government, election, and regulation topics related to the owner's interests and alerts only when something is relevant (reduces noise). Source: @lutefiskguy on X (Nov 2026), shareable template link.
+- **Contractor permit & inspector email workflow**: Business owner sets up bots that read city and inspector emails, extract dates/next steps, draft replies; build next-day crew schedules from job lists and send to crews; produce evening daily reports of what got done, late items, and decisions needed. All outbound gated by approval. First workflow free setup offered. Source: @Texas_Twins_Dad on X.
+- **Public-sector consulting orchestrator (Avero)**: Firm selling ERP and AI consulting to governments runs Grok Bot as the chief-of-staff orchestrator over dozens of single-job agents (pipeline, proposals, pricing, content, travel). Strict "facts file" requirement (no fabricated claims to agencies), agents draft only, humans send. Scoreboard focused on buyer meetings booked. Source: @AbhijitVerekar on X.
+- **GrokBot City visual fleet dashboard**: Users build (or use community) a virtual city where bots live in department buildings, take cabs to work, line up at Town Hall for approvals, and a crane builds new offices when bots join. Local dashboard for writing task briefs, monitoring progress, and shared knowledge library. Complements the agent fleet concept. Sources: @0xRafy on X (high engagement), GitHub sleeplesshan/grokbot-city, blobcity.world community.
 
-### Brief Notes on Adjacent Scans
-- Hospitality: One user reported a Grok Bot assistant auto-booking hotel + flight when stranded (preventing being stuck overnight). Templates exist for restaurant scouting/scripts and phone-based reservations (approval-gated). Not yet deep vertical ops examples.
-- Government/public sector: No strong novel productive user reports found in this scan; mostly general or event-related mentions.
+### Adjacent Public-Service & Life-Admin Extensions
+- **Electricity meter reading submission**: Bot emailed building management, received meter photographs, and entered the readings with the author's utility provider (task in progress at time of report). Source: agentsinuse.com (from HN).
+- **IRS hold-line tax penalty resolution**: With the new outbound phone-calling feature, a Grok Bot sat on hold with the IRS for 2 hours 14 minutes and secured a $1,380 late penalty waiver while the user never touched the phone. (Phone feature discloses it is AI and seeks approval before costs.) Source: usage.incidental.site / X user reports (Nov 2026).
+- **School test detector + practice generator**: Multi-bot setup: school bot (read-only timetable check every morning) detects a new test; calendar bot adds it after duplicate check; chief-of-staff syncs; subject coach bots generate custom practice tests once coverage is provided. Caught a Friday-night test that parents/group chat missed. Source: usage.incidental.site (Frank_SI_Lab, Nov 2026).
+- **Hospital PACS MRI viewer access**: Bot successfully opened an MRI study from a corporate hospital PACS viewer (where Claude could not), recovered from export errors, and downloaded the full study. Demonstrates browser-based access to medical imaging systems that lack clean APIs. Source: X / usage.incidental.site (@drpraveenkoduru).
 
-### Other Productive Patterns Observed
-- Multi-agent teams that close the loop from digital reasoning all the way to physical manufacturing without hardware modification.
-- Strong emphasis on scientific rigor: reserved validation experiments, hypothesis testing, LaTeX reporting, citation integrity.
-- Templates and shareable bots accelerating specialized academic and lab adoption.
+### Other Notes from This Scan
+- Outbound phone calling is live and already used for genuine airline rebookings and the IRS example above (discloses AI, approval-gated for costs).
+- Visual/organizational metaphors (Bot City, department buildings) are emerging as a way to manage multi-bot fleets beyond pure chat.
+- Strong pattern: draft/approve gates remain essential for any external communication with government or regulated entities.
 
 ## Aggregated High-Value Sources
 - [agentsinuse.com/agents/grok-bot](https://agentsinuse.com/agents/grok-bot/) — 170+ sourced examples across categories.
 - [grokbot.dev/use-cases](https://grokbot.dev/use-cases/) and marketplace — Awesome use cases, prompts, and shareable bots.
 - [x.ai/bot/use-cases](https://x.ai/bot/use-cases) and guides.
-- X real-time user reports (e.g., @billcox1962, @michaelraspuzzi, @ProfBuehlerMIT).
-- Supporting sites: botcookbook.com, usinggrokbot.com, grokbot-usecases.vercel.app, usecases.sh, whatshouldmybotdo.com, completeaitraining.com, grokbotwiki.com.
+- X real-time user reports (e.g., @billcox1962, @michaelraspuzzi, @ProfBuehlerMIT, @lutefiskguy, @0xRafy).
+- Supporting sites: botcookbook.com, usinggrokbot.com, grokbot-usecases.vercel.app, usecases.sh, whatshouldmybotdo.com, completeaitraining.com, grokbotwiki.com, usage.incidental.site.
 
 ## Previously Covered Domains (Do Not Re-Search as Primary)
-Local trades (plumbing, roofing, contractors), accessibility, Data Bot / analytics pipelines, Chinese users & localization efforts, industrial applications, legal/solo practice, insurance/healthcare admin, outdoor/recreation (hunting), hardware/wearables, education, ranching/agriculture, nonprofits, real estate, creative/media. Any new examples in these must be clearly novel before adding. Scientific research, academic labs, and end-to-end physical fabrication now logged as of Run 8.
+Local trades (plumbing, roofing, contractors), accessibility, Data Bot / analytics pipelines, Chinese users & localization efforts, industrial applications, legal/solo practice, insurance/healthcare admin, outdoor/recreation (hunting), hardware/wearables, education, ranching/agriculture, nonprofits, real estate, creative/media, scientific research/academic labs/physical fabrication. Any new examples in these must be clearly novel before adding. Government/civic/public-service interactions and Bot City visualizations now logged as of Run 9.
 
 ## Next Iteration Ideas
-- Government / public sector / civic tech (deeper search)
 - Logistics, manufacturing, supply chain (deeper beyond general industrial and the 3D-print case)
-- Healthcare providers (clinics, not just admin/insurance)
-- Finance beyond personal CFO (advisors, small funds)
+- Healthcare providers (clinics, not just admin/insurance/PACS access)
+- Finance beyond personal CFO (advisors, small funds, trading desks)
 - Deeper non-English (beyond Chinese) and accessibility expansions
 - Specific verticals: hospitality, restaurants, events (deeper than booking)
 - Music production, writing/publishing pipelines
 - Environmental / climate / sustainability ops
 - Biotech / wet-lab beyond safety templates
+- More quantitative ROI from civic/government workflows
 
 ---
 
